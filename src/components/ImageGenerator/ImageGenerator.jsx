@@ -36,9 +36,15 @@ function ImageGenerator() {
             }
         );
         let data = await response.json();
-        let data_array = data.data;
-        setImage_url(data_array[0].url);
-        setLoading(false);
+
+        if (!data || !data.data || data.data.length === 0) {
+            alert("Image generation failed. Please check API key or try again.");
+            setLoading(false);
+            return;
+            }
+
+        setImage_url(data.data[0].url);
+
 
     }
 
