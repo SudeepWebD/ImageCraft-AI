@@ -18,7 +18,6 @@ ImageCraft AI is a modern React-based web application that generates AI images f
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - OpenAI API
-- Git & GitHub
 
 ---
 
@@ -28,3 +27,11 @@ git clone https://github.com/SudeepWebD/ImageCraft-AI.git
 cd ImageCraft-AI
 npm install
 npm start
+```
+
+## 🔐 Environment Variables
+Create a .env file in the project root:
+```bash
+REACT_APP_OPENAI_API_KEY= your_api_key_here
+```
+
