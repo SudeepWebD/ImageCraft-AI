@@ -35,3 +35,19 @@ Create a .env file in the project root:
 REACT_APP_OPENAI_API_KEY= your_api_key_here
 ```
 
+## 📦 Production Build
+```bash
+npm run build
+```
+
+---
+
+## 👤 Author
+Sudeep Pingulkar
+Frontend Developer (React.js)
+GitHub: https://github.com/SudeepWebD
+
+
+
+
+
