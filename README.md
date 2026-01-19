@@ -43,9 +43,9 @@ npm run build
 ---
 
 ## 👤 Author
-Sudeep Pingulkar
-Frontend Developer (React.js)
-GitHub: https://github.com/SudeepWebD
+Anant alias Sudeep Pingulkar
+- Frontend Developer (React.js)
+
 
 
 
