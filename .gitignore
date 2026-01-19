@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# env files
+src/API KEY/
+.env
+
+# build output
+/dist
+/build
+
+# misc (optional but good practice)
+.DS_Store
