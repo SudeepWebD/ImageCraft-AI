@@ -32,7 +32,7 @@ npm start
 ## 🔐 Environment Variables
 Create a .env file in the project root:
 ```bash
-REACT_APP_OPENAI_API_KEY= your_api_key_here
+REACT_APP_API_KEY= your_api_key_here
 ```
 
 ## 📦 Production Build
